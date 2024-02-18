@@ -1,0 +1,18 @@
+ahead, right, left
+
+	turn 180
+
+ahead, right
+
+	turn left
+
+ahead, left
+
+	turn right
+
+right, left
+right
+left
+
+	hop
+
